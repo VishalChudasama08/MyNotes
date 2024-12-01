@@ -1,0 +1,48 @@
+[{
+  "_id": {
+    "$oid": "6707e458f1e86ab904462b27"
+  },
+  "name": "Vishal",
+  "email": "chudasamaV@gmail.com",
+  "password": "$2b$10$xgVL3tC.sNqpv6DM4TkebO5HALnf.e7OU12uK8BBAs87laNYnB98.",
+  "date": {
+    "$date": "2024-10-10T14:27:36.587Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6745b6f3c30ce5c5a3c6e884"
+  },
+  "name": "Vishal Chudasama",
+  "email": "cvb@gmail.com",
+  "password": "$2b$10$LpHloW2/xa6HW8/u/PqvCeMcrBP9GTj7b0BVGSh0Y3tgHDczrjxXu",
+  "date": {
+    "$date": "2024-11-26T11:54:27.511Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6747ec9765f1c101d4aae073"
+  },
+  "name": "kaushik",
+  "email": "kaushik@gmail.com",
+  "password": "$2b$10$h01Buk7fLnSTFH3cbWJ5hO7eFbmvzctQFXiDltl9M3TPdYu5w.enG",
+  "date": {
+    "$date": "2024-11-28T04:07:51.030Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674c6c8787474b0233a78dd1"
+  },
+  "name": "Vishal Chudasama",
+  "email": "vishal@gmail.com",
+  "password": "$2b$10$2NN4N69/l/e215HCQHI9euvz8AIxj2LZh6tMPWhpiDRz06tuWLWo.",
+  "date": {
+    "$date": "2024-12-01T14:02:47.350Z"
+  },
+  "__v": 0
+}]
